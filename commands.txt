@@ -1,4 +1,4 @@
 git init
 git status
 git add -A
-git commit -m "t"
+git commit -m "this is second commit"
